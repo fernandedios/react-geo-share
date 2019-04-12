@@ -1,4 +1,4 @@
-const { gql } = require('appolo=server');
+const { gql } = require('apollo-server');
 
 module.exports = gql`
     type User {
